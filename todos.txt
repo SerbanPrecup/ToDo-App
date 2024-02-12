@@ -1,7 +1,6 @@
-Clean
 Clean the room
-e
-eat
-learn
+buy bread
+eat snacks
 play
-Clean my room
+Eat food
+Go to shopping
